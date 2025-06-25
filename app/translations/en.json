@@ -1,0 +1,94 @@
+{
+  "common": {
+    "settings": "Settings",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "notifications": "Notifications",
+    "accessibility": "Accessibility",
+    "about": "About",
+    "search": "Search",
+    "searchPlaceholder": "Search for doctors or appointments",
+    "downloadReport": "Download Report",
+    "date": "Date",
+    "time": "Time",
+    "location": "Location",
+    "type": "Type",
+    "status": "Status",
+    "notes": "Notes",
+    "prescription": "Prescription"
+  },
+  "appointments": {
+    "title": "Appointments",
+    "upcoming": "Upcoming",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "reschedule": "Reschedule",
+    "cancel": "Cancel",
+    "leaveReview": "Leave Review",
+    "bookAgain": "Book Again",
+    "noAppointments": "No appointments found",
+    "adjustSearch": "Try adjusting your search criteria",
+    "noAppointmentsType": "You have no {{type}} appointments",
+    "videoCall": "Video Call",
+    "joinCall": "Join Call",
+    "call": "Call",
+    "downloadReport": "Download Report"
+  },
+  "health": {
+    "title": "Health Tracking",
+    "bloodPressure": "Blood Pressure",
+    "heartRate": "Heart Rate",
+    "temperature": "Temperature",
+    "weight": "Weight",
+    "bloodSugar": "Blood Sugar",
+    "todayOverview": "Today's Overview",
+    "quickAdd": "Quick Add",
+    "recentReadings": "Recent Readings",
+    "insights": "Health Insights",
+    "weeklySummary": "Weekly Summary",
+    "recommendation": "Recommendation",
+    "addReading": "Add Health Reading",
+    "selectVitalType": "Select Vital Type",
+    "value": "Value",
+    "enterValue": "Enter value",
+    "normalRange": "Normal range",
+    "notesOptional": "Notes (Optional)",
+    "addNotesPlaceholder": "Add any additional notes...",
+    "saveReading": "Save Reading",
+    "noData": "No data",
+    "weeklySummaryText": "Your blood pressure readings have been consistently within normal range this week. Keep up the good work with your current lifestyle habits.",
+    "recommendationText": "Consider tracking your readings at the same time each day for more accurate trends. Morning readings are often most consistent."
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "helpSupport": "Help & Support",
+    "privacySecurity": "Privacy & Security"
+  },
+  "covid19": {
+    "title": "COVID-19 Tracking",
+    "status": {
+      "title": "COVID-19 Status",
+      "no_exposure": "No Recent Exposure",
+      "last_updated": "Last Updated"
+    },
+    "symptoms": {
+      "title": "Symptoms Tracker",
+      "temperature": "Temperature",
+      "oxygen_level": "Oxygen Level",
+      "normal": "Normal"
+    },
+    "statistics": {
+      "title": "Local Statistics",
+      "active_cases": "Active Cases",
+      "recovered": "Recovered",
+      "vaccinated": "Vaccinated"
+    },
+    "guidelines": {
+      "title": "Safety Guidelines",
+      "wear_mask": "Wear a mask in public places",
+      "social_distance": "Maintain social distancing",
+      "wash_hands": "Wash hands frequently"
+    }
+  }
+}
