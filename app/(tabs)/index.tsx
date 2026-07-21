@@ -343,9 +343,7 @@ export default function HomeScreen() {
             </View>
           </View>
         </View>
-      
-    
-  );
+      </ScrollView>
 
       {/* Booking Modal */}
       <Modal
@@ -496,7 +494,6 @@ export default function HomeScreen() {
           </ScrollView>
         </SafeAreaView>
       </Modal>
-      </ScrollView>
 
       {/* Confirmation Modal */}
       <Modal
