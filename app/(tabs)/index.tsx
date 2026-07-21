@@ -122,7 +122,8 @@ export default function HomeScreen() {
         <View style={styles.section}>
           <View style={styles.sectionHeader}>
             <Text style={styles.sectionTitle}>Upcoming Appointments</Text>
-            <TouchableOpacity onPress={() => router.push('/appointment-history')}>              <Text style={styles.seeAllButton}>See All</Text>
+            <TouchableOpacity onPress={() => router.push('/appointment-history')}>
+              <Text style={styles.seeAllButton}>See All</Text>
             </TouchableOpacity>
           </View>
           
