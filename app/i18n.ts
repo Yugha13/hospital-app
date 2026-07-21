@@ -6,7 +6,6 @@ import taTranslations from './translations/ta.json';
 i18n
   .use(initReactI18next)
   .init({
-  compatibilityJSON: 'v3',
   resources: {
     en: { translation: enTranslations },
     ta: { translation: taTranslations }
